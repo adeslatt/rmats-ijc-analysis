@@ -51,4 +51,7 @@ mamba install -c conda-forge r-locfit -y
 mamba install -c conda-forge r-ggplot2 -y
 mamba install -c conda-forge r-rcpp -y
 mamba install -c conda-forge r-rcpparmadillo -y
-mamba  install -c conda-forge r-pheatmap -y
+mamba install -c conda-forge r-pheatmap -y
+mamba install -c conda-forge r-rcppnumerical -y
+mamba install -c conda-forge pcre -y
+mamba install -c bioconda bioconductor-glimma -y
