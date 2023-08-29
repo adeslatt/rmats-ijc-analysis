@@ -55,3 +55,4 @@ mamba install -c conda-forge r-pheatmap -y
 mamba install -c conda-forge r-rcppnumerical -y
 mamba install -c conda-forge pcre -y
 mamba install -c bioconda bioconductor-glimma -y
+mamba install -c conda-forge r-hexbin -y
